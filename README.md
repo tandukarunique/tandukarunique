@@ -20,6 +20,8 @@ I'm a QA Engineer who loves building clean UIs and ensuring quality software.
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-%23662D91.svg?style=for-the-badge&logo=appium&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
