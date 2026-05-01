@@ -4,9 +4,9 @@
 I'm a QA Engineer who loves building clean UIs and ensuring quality software.
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/unique_tandukar1/).
-[![LinkedIn](https://www.linkedin.com/in/unique-tandukar-2690a8309/).
-[![Facebook](https://www.facebook.com/tandukar.unique/).
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/unique_tandukar1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unique-tandukar-2690a8309/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tandukar.unique/)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
