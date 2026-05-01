@@ -17,6 +17,8 @@ I'm a QA Engineer who loves building clean UIs and ensuring quality software.
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF7300.svg?style=for-the-badge&logo=testng&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
 
 
 
